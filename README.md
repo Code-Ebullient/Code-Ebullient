@@ -6,7 +6,7 @@ I'm a Software Engineer, Content Creator, and General Manager who currently work
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 & on Scrimba Frontend Developer Path [Scrimba](https://scrimba.com/).
+- 💡 Fun fact: I'm currently on my path on Data Science with [365](https://learn.365datascience.com/) & on Scrimba Frontend Developer Path [Scrimba](https://scrimba.com/).
 - 🌱 I’m currently learning Frontend track (JavaScript / React), PHP/Laravel, and Python.
 - 🗣 I fluently speak/read/write English, moderately speak/read/write Spanish & read/write French A1 level.
 - 😊 I’m looking for help with Open Source Projects, Hackathons, Internships, and Entry-level opportunities.
